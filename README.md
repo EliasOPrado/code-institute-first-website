@@ -1,13 +1,6 @@
 # My first web page with Code Institute
 
-Just a normal paragraph 
+This website was created as a tutorial with the help of  the Code Institute tutor.
 
-## this is a h2
+Only plain HTML & CSS was used to create this three page website.
 
-### this is a h3
-
-#### this is a h4
-
-##### this is a h5
-
-###### this is a h6
