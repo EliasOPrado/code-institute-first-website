@@ -56,3 +56,6 @@ h1{
     text-align: center;
 }
 
+div{
+    displaY: inline-block;
+}
